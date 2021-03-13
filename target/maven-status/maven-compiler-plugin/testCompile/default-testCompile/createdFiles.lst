@@ -1,0 +1,9 @@
+by\minilooth\dependencyinjectortest\interfaces\RoleService.class
+by\minilooth\dependencyinjectortest\interfaces\FooService.class
+by\minilooth\dependencyinjectortest\Tests.class
+by\minilooth\dependencyinjectortest\impls\UserServiceImpl.class
+by\minilooth\dependencyinjectortest\impls\RoleServiceImpl.class
+by\minilooth\dependencyinjectortest\interfaces\UserService.class
+by\minilooth\dependencyinjectortest\models\Role.class
+by\minilooth\dependencyinjectortest\impls\FooServiceImpl.class
+by\minilooth\dependencyinjectortest\models\User.class
